@@ -26,3 +26,5 @@ This project is a comprehensive guide to building a Convolutional Neural Network
 
 ## Conclusion
 Overall, this project provides a detailed walkthrough of the process of building, training, and evaluating a CNN for image classification, with a focus on practical techniques such as data preprocessing, data augmentation, and model evaluation. It serves as a valuable resource for anyone interested in deep learning and its applications in image recognition.
+
+This is my contribution 
